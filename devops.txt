@@ -1,2 +1,3 @@
 database.username = swamy
 database.passwrd=swamy@123
+database.url=jdbcurl
