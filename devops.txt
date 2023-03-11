@@ -1,2 +1,2 @@
 database.username = swamy
-
+database.passwrd=swamy@123
